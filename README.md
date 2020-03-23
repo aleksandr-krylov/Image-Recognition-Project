@@ -10,18 +10,21 @@ Before passing the original data into any classifier, preprocessing and feature 
 Finally, gained results have been interpreted in terms of performance of built estimators, the pros and cons of each model have been discussed, and possible improvements in classifying images have been suggested.
 
 ## Objects to be classifed
-------
+
 * Honeycomb
 <img src='http://farm2.static.flickr.com/1372/1252907196_39261195f4.jpg' width='280' height='210'>
+
 * Bird nest
 <img src='https://farm4.static.flickr.com/3384/3496787716_9b711a340a.jpg' width='280' height='210'>
+
 * Lighthouse
 <img src='http://static.flickr.com/2086/2533280415_3b239759b7.jpg' width='280' height='389'>
+
 * Monarch butterfly
 <img src='http://static.flickr.com/98/235285500_a750156f78.jpg' width='280' height='210'>
 
 ## Data
-------
+
 The images used for this project came from image database [ImageNet](http://www.image-net.org/) which provides URLs for quality-controlled and human annotated images.
 
 In addition to three image sets provided as the default, one more extra data set of our own choice have been used. A butterfly has been chosen as an additional object to recognize.
