@@ -12,13 +12,13 @@ Finally, gained results have been interpreted in terms of performance of built e
 ## Objects to be classifed
 ------
 * Honeycomb
-<img src='http://farm2.static.flickr.com/1372/1252907196_39261195f4.jpg' width='300' height='300'>
+<img src='http://farm2.static.flickr.com/1372/1252907196_39261195f4.jpg' width='280' height='210'>
 * Bird nest
-<img src='https://farm4.static.flickr.com/3384/3496787716_9b711a340a.jpg' width='300' height='300'>
+<img src='https://farm4.static.flickr.com/3384/3496787716_9b711a340a.jpg' width='280' height='210'>
 * Lighthouse
-<img src='http://static.flickr.com/2086/2533280415_3b239759b7.jpg' width='300' height='300'>
+<img src='http://static.flickr.com/2086/2533280415_3b239759b7.jpg' width='280' height='389'>
 * Monarch butterfly
-<img src='http://static.flickr.com/98/235285500_a750156f78.jpg' width='300' height='300'>
+<img src='http://static.flickr.com/98/235285500_a750156f78.jpg' width='280' height='210'>
 
 ## Data
 ------
