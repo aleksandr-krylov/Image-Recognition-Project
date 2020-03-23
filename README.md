@@ -32,7 +32,7 @@ In addition to three image sets provided as the default, one more extra data set
 Please head over to [data folder](/data) to have a closer look at image URLs used for this project.
 
 ## Packages used
------
+
 * python       3.7.3
 * numpy        1.16.3
 * pandas       0.24.2
